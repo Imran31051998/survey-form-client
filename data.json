@@ -1,0 +1,17 @@
+[
+    {
+        "name":"survey name1",
+        "description":"this survey is about the topic",
+        "type":"product",
+        "startDate":"8-5-2023",
+        "endDate":"9-6-2023"
+    },
+    {
+        "name":"survey name3",
+        "description":"this survey is about the topic",
+        "type":"feedback",
+        "startDate":"10-4-2023",
+        "endDate":"11-7-2023"
+    }
+
+]
